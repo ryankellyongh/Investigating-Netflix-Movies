@@ -43,6 +43,7 @@ The analysis helps answer questions such as:
 
 ## Tools Used
 • Python (pandas, matplotlib)
+
 • Jupyter Notebook
 
 ## Analysis Workflow
