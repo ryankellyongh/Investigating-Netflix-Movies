@@ -47,16 +47,26 @@ The analysis helps answer questions such as:
 
 ## Analysis Workflow
 
-Data Preparation
+**Data Preparation**
+
 • Imported Netflix dataset into pandas
+
 • Filtered for Movies only
+
 • Selected movies released between 1990 and 1999
+
 • Created duration analysis variables
+
 • Identified short Action movies under 90 minutes
-Exploratory Analysis
+
+**Exploratory Analysis**
+
 • Runtime distribution analysis
+
 • Genre frequency analysis
+
 • Histogram visualization of movie durations
+
 • Bar chart of top genres in the 1990s
 
 ## Key Findings
