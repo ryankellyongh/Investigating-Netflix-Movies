@@ -104,7 +104,8 @@ Bar chart comparing the most common genres during the decade.
 These visualizations help identify production trends and investment opportunities for nostalgic content.
 
 ## Business Insight
-From an investment perspective, this project shows that:
+
+From an investment perspective:
 
 • Mid-length films around 90–120 minutes were the standard
 
